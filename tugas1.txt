@@ -1,0 +1,39 @@
+ 1.Jelaskan yang di maksud dokumen root!
+   Jawaban: Dokumen root adalah suatu folder utama yang berisi file-file utama dalam suatu sistem atau aplikasi terutama dalam konteks web,
+    pada server web , dokumen root adalah direktori yang berisi file-file yang dapat diakses melalui URL.
+    
+2.Pada apache web server, apakah dokumen root harus terletak dalam direktori C:\xampp\htdocs ? 
+    Jawaban: Tidak, dokumen root pada Apache web server tidak harus terletak di C:\xampp\htdocs.
+     Namun, di XAMPP, C:\xampp\htdocs adalah lokasi default untuk dokumen root yang digunakan oleh server Apache ketika menjalankan XAMPP.
+
+3.Jelaskan apa yang dimaksud dengan perintah git: init, clone, remote, add, commit, push dan checkout
+    Jawaban: 
+       Git: init: Digunakan untuk membuat repositori baru di direktori yang sedang digunakan
+       Git: clone: Digunakan untuk mengkloning repositori dari server Git ke lokal
+       Git: remote: Digunakan untuk mengatur alamat server Git yang digunakan untuk mengirim
+       Git: add: Digunakan untuk menambahkan file-file yang ingin di commit ke staging area
+       Git: commit: Digunakan untuk mengirimkan perubahan-perubahan ke repositori
+       Git: push: Digunakan untuk mengirimkan perubahan-perubahan ke server Git
+       Git: checkout: Digunakan untuk mengganti branch yang sedang digunakan untuk mengembalikan kode.
+
+4.Jelaskan perbedaan antara GitHub dan GitLab
+    Jawaban: 
+    1. GitHub adalah layanan hosting Git yang paling populer dan banyak digunakan oleh
+    developer, sedangkan GitLab adalah layanan hosting Git yang juga populer dan banyak digunakan
+    2. GitHub memiliki fitur-fitur yang lebih lengkap dan lebih banyak fitur premium, sedangkan GitLab memiliki fitur-fitur yang lebih sederhana dan lebih banyak fitur gratis.
+    3. GitHub memiliki lebih banyak pengguna dan lebih banyak proyek yang dihosting, sedangkan GitLab memiliki lebih banyak fitur integrasi dengan aplikasi lainnya.
+
+5.Apa bedanya variable user dengan variable system ?
+    Jawaban: Variable user dan variable system adalah dua jenis variabel yang berbeda dalam sistem operasi. 
+    Variable user adalah variabel yang digunakan oleh pengguna untuk menyimpan data pribadi, sedangkan variable system adalah variabel yang digunakan oleh sistem operasi untuk
+    menyimpan data sistem. Variable user biasanya berisi informasi tentang pengguna, seperti nama, alamat, dan lain-lain.
+    sedangkan variable system berisi informasi tentang sistem operasi, seperti versi sistem operasi, nama sistem operasi, dan lain-lain.
+
+6. Apa persamaan variable system dengan variable constant ?
+    Jawaban: Variable system dan variable constant adalah dua jenis variabel yang berbeda dalam sistem operasi. 
+    Variable system adalah variabel yang digunakan oleh sistem operasi untuk menyimpan data sistem
+    sedangkan variable constant adalah variabel yang memiliki nilai yang tidak dapat diubah. 
+    Persamaan antara variable system dan variable constant adalah keduanya memiliki nilai yang tidak dapat diubah, namun variable system memiliki nilai yang dapat diubah oleh sistem operasi, 
+     sedangkan variable constant memiliki nilai yang tidak dapat diubah oleh sistem operasi.
+
+
