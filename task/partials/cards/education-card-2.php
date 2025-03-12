@@ -3,18 +3,18 @@
                                     <div class="row align-items-center gx-5">
                                         <div class="col text-center text-lg-start mb-4 mb-lg-0">
                                             <div class="bg-light p-4 rounded-4">
-                                                <div class="text-secondary fw-bolder mb-2">2011 - 2015</div>
+                                                <div class="text-secondary fw-bolder mb-2">2021 - 2024</div>
                                                 <div class="mb-2">
-                                                    <div class="small fw-bolder">ULA</div>
-                                                    <div class="small text-muted">Los Angeles, CA</div>
+                                                    <div class="small fw-bolder">SMK Insan Madani</div>
+                                                    <div class="small text-muted">Ds Urug, Kec Sukajaya, Kab Bogor Jawa Barat</div>
                                                 </div>
                                                 <div class="fst-italic">
-                                                    <div class="small text-muted">Undergraduate</div>
-                                                    <div class="small text-muted">Computer Science</div>
+                                                    <div class="small text-muted"></div>
+                                                    <div class="small text-muted"></div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-8"><div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga.</div></div>
+                                        <div class="col-lg-8"><div>Pada jenjang SMK saya mengambil jurusan Otomatisasi Tata Kelola Perkantoran (OTKP), dimana jurusan tersebut merujuk pada Administrasi dan Manajemen.</div></div>
                                     </div>
                                 </div>
                             </div>

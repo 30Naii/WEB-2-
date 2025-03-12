@@ -3,13 +3,13 @@
                                     <div class="row align-items-center gx-5">
                                         <div class="col text-center text-lg-start mb-4 mb-lg-0">
                                             <div class="bg-light p-4 rounded-4">
-                                                <div class="text-primary fw-bolder mb-2">2017 - 2019</div>
-                                                <div class="small fw-bolder">SEM Specialist</div>
-                                                <div class="small text-muted">Wayne Enterprises</div>
-                                                <div class="small text-muted">Gotham City, NY</div>
+                                                <div class="text-primary fw-bolder mb-2">2023</div>
+                                                <div class="small fw-bolder">Praktik Kerja Lapangan</div>
+                                                <div class="small text-muted"></div>
+                                                <div class="small text-muted"></div>
                                             </div>
                                         </div>
-                                        <div class="col-lg-8"><div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga.</div></div>
+                                        <div class="col-lg-8"><div>Pada saat SMK saya melakukan praktik kerja lapangan di Dinas Kebudayaan Dan Pariwisata Kabupaten Bogor.</div></div>
                                     </div>
                                 </div>
                             </div>
